@@ -41,7 +41,7 @@ O texto dos PDFs é enviado a uma API externa. Evite usar com documentos sensív
 
 ## Artigo
 
-Escrevi sobre o projeto na DIO: [link do artigo]
+Escrevi sobre o projeto na DIO:(https://web.dio.me/articles/automatizando-minha-pasta-downloads-com-python-e-ia-1f96314c16b4)
 
 ## Licença
 
